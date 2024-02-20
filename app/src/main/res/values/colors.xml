@@ -3,4 +3,5 @@
     <color name="green">#00FF00</color>
     <color name="blue">#0000FF</color>
     <color name="winningColor">#FFD700</color>
+    <color name="black">#000000</color>
 </resources>
