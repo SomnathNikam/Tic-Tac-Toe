@@ -58,7 +58,7 @@ private fun createButton(row: Int, col: Int): Button {
                 button.setTextColor(resources.getColor(R.color.blue))
             }
 
-            if (checkForWinner()) {
+            if (checkWinner()) {
                 showWinner()
             } else if (moves == 9) {
                 showDraw()
@@ -70,7 +70,7 @@ private fun createButton(row: Int, col: Int): Button {
         }
     }
 
-    private fun checkForWinner(): Boolean {
+    private fun checkWinner(): Boolean {
 
         for (i in 0..2) {
             // Check rows
