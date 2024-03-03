@@ -43,11 +43,9 @@ This simple Android application implements the classic Tic Tac Toe game using th
 
 1. Launch the app on your Android device.
 
-2. Select "Two Player" mode to play against a friend.
+2. Tap on the grid to make your move. The game uses X in green color and O in blue color
 
-3. Tap on the grid to make your move. The game will automatically switch turns between players.
-
-4. The game ends when one player wins, there is a draw, or you can reset the game to play again.
+3. The game ends when one player wins, there is a draw, or it automatically reset the game to play again.
 
 ## Contributing
 
