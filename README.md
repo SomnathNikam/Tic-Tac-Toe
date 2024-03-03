@@ -32,7 +32,7 @@ This simple Android application implements the classic Tic Tac Toe game using th
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/tic-tac-toe-android.git
+    git clone https://github.com/SomnathNikam/Tic-Tac-Toe.git
     ```
 
 2. Open the project in Android Studio.
