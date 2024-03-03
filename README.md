@@ -19,6 +19,7 @@ This simple Android application implements the classic Tic Tac Toe game using th
 
 ## Screenshots
 ![Screenshot_6tt](https://github.com/SomnathNikam/Tic-Tac-Toe/assets/117519166/ee69e01d-1355-48f6-b7c7-a8e4cffb40f0)
+![Screenshot_7tt](https://github.com/SomnathNikam/Tic-Tac-Toe/assets/117519166/35a63e80-a3b2-438b-acc4-bcb8d00b1bf5)
 
 
 
